@@ -34,4 +34,8 @@ public class 1026{
 
         input.close();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 64d11db5b484c61a3a3f94e289a81308503bd459
