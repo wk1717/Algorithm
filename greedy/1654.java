@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class 1654{
+class 1654 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int K = input.nextInt();
@@ -37,4 +37,3 @@ class 1654{
        System.out.println(result);
        input.close();
     }
-}
