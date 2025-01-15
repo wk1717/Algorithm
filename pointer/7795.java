@@ -36,4 +36,8 @@ class 7795{
             System.out.println(total);
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a7fe1e25404924b11594137f924c419d0cad48f1
